@@ -1,0 +1,7 @@
+<suite name="TestSuiteByDiego">
+	<test name="testngTest">
+		<classes>
+			<class name="com.integrationmaven.testng.FirstExampleWithTestNG" />
+		</classes>
+	</test>
+</suite>
